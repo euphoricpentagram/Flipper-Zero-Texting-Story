@@ -1,2 +1,3 @@
 # Flipper-Zero-Texting-Story
-a simple text story app for the flipper zero
+A simple texting/book style story app for the flipper zero
+- The nuns are so kind
